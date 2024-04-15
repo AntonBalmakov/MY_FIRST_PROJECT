@@ -8,6 +8,11 @@ print(a)
 
 
 def my_func():
+    '''
+    Халабала какие то ищменения
+    :return:
+    '''
+
     print('hi')
 
 
